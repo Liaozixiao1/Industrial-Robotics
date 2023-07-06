@@ -21,6 +21,7 @@ This project was implemented in [MATLAB](https://www.mathworks.com/products/matl
 ## ✒️ Authors
 
 - Arnaud BOSQUILLON DE JARCY
+    - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/arnaud162)
 
 - Gabriel DE FREITAS LEITE
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/GLeyte)
